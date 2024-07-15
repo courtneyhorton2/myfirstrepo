@@ -15,3 +15,4 @@ array1 = np.random.randint(1, 7, 10_000_000)
 
 print(f"Numpy Array --- Process finished --- {(time.time() - start_time_array)} seconds ---")
 
+print("Courtney's Code")
